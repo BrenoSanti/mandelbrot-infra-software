@@ -1,0 +1,5 @@
+mandelbrot
+src/*.o
+mandelbrot_bgs_*.pgm
+times.txt
+evidencias.log
